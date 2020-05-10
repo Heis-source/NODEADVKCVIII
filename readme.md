@@ -1,6 +1,6 @@
-# AnunPractice
+# NodePOP
 
-AnunPractice es un API con un front básico para la visualización de anuncios
+NodePOP es un API con un front básico para la visualización de anuncios
 
 ## Instalación
 
@@ -21,7 +21,7 @@ npm install
 npm install_db
 ```
 
-#### Arrancar microservicio thumCrafter
+#### Arrancar microservicio thumCrafter  [PM2](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/)
 ```bash
 cd MicroSRV
 pm2 start thumCrafter.js
@@ -170,4 +170,4 @@ Default sorted by '_id'
 ```
 
 ## Autor
-Hodei para Keepcoding Web Bootcamp VIII
+Hodei para Keepcoding Web Bootcamp VIII# NODEADVKCVIII
